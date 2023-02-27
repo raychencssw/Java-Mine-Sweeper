@@ -1,8 +1,3 @@
-// Name:wei-chieh, chen
-// USC NetID:weichieh
-// CS 455 PA3
-// Fall 2022
-
 import java.util.Random;
 
 /** 
