@@ -1,9 +1,3 @@
-// Name:wei-chieh, chen
-// USC NetID:weichieh
-// CS 455 PA3
-// Fall 2022
-
-
 /**
    MineSweeperFixed -- main class for a GUI minesweeper game.
    Uses a hard-coded mine field for testing purposes.  For more details about this
