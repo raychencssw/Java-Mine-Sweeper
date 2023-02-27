@@ -1,9 +1,3 @@
-// Name:wei-chieh, chen
-// USC NetID:weichieh
-// CS 455 PA3
-// Fall 2022
-// create by my own
-
 public class VisibleFieldTester{
 
    private static boolean[][] smallMineField = 
