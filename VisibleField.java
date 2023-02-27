@@ -1,9 +1,3 @@
-// Name:wei-chieh, chen
-// USC NetID:weichieh
-// CS 455 PA3
-// Fall 2022
-
-
 /**
  *  VisibleField class
  *  This is the data that's being displayed at any one point in the game (i.e., visible field, because it's what the
